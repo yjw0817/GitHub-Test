@@ -2,3 +2,23 @@ Hello
 Test
 git config user.name "Jeongwon"
 git config user.email "yjw0817@hotmail.com"
+
+mkdir git_test
+touch hello.txt
+vi hello.txt
+git init
+git status
+git add hello.txt
+git commit -m "init"
+git config user.email
+git config user.name
+vi hello.txt
+git commit -m "hello world"
+git remote
+git tag
+git remote add origin https://github.com/yjw0817/GitHub-Test.git
+git remote
+git push origin master
+
+계정  문제시
+자격증명관리자
