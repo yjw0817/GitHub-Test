@@ -1,2 +1,4 @@
 Hello
 Test
+git config user.name "Jeongwon"
+git config user.email "yjw0817@hotmail.com"
